@@ -16,13 +16,6 @@ const projects = [
     tags: ['React.js', 'Express.js', 'Anthropic API', 'TMDB API'],
     repo: 'https://github.com/AravCS/MoodReel',
   },
-  {
-    title: 'E-Commerce Frontend',
-    description:
-      'A responsive e-commerce frontend with dynamic product listings, cart management, and real-time updates via the FakeStore API. Features unit tests with Vitest, React Router for client-side routing, and is deployed on Vercel.',
-    tags: ['React.js', 'CSS Modules', 'Vitest', 'FakeStore API'],
-    repo: 'https://github.com/AravCS/frontend-ecommerce',
-  },
 ]
 
 function Projects() {
