@@ -13,7 +13,7 @@ function About() {
         </div>
         <div className="about__body">
           <p>
-            I'm an incoming 3rd-year Computer Science student at UC Berkeley. I enjoy building things for the web,
+            I'm a 3rd-year Computer Science student at UC Berkeley. I enjoy building things for the web,
             and currently exploring/learning more about full stack development and AI/Ml.
           </p>
         </div>
