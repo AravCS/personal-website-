@@ -17,10 +17,6 @@ function Contact() {
           <span className="section-tag">06</span>
           <h2>Contact</h2>
         </div>
-        <p className="contact__intro">
-          I'm always open to new opportunities, collaborations, or just a
-          conversation about tech. Feel free to reach out.
-        </p>
         <ul className="contact__list">
           {links.map((link, i) => (
             <li key={link.label} className="contact__item" style={{ transitionDelay: `${i * 0.08}s` }}>
