@@ -4,7 +4,7 @@ import './Experience.css'
 const experience = [
   {
     role: 'Open-Source Software Engineer Intern',
-    company: 'CodeDay Labs — Summer Open Source Experience',
+    company: 'CodeDay Labs',
     location: 'Remote',
     date: 'Jun 2026 – Aug 2026',
     bullets: [
