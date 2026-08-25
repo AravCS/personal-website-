@@ -32,7 +32,7 @@ const experience = [
     bullets: [
       'Delivered targeted academic support to 15+ students weekly across CS-102, CS-116, and CS-124, strengthening core proficiency in C++ programming.',
       'Systematically debugged student code across 100+ sessions, teaching logical troubleshooting, memory management, and pointer mechanics to ensure project completion.',
-      'Demystified advanced concepts, including OOP principles (polymorphism, encapsulation) and data structures (linked lists, BSTs), to bridge abstract theory with clean C++ implementation.',
+      'Communicated and taught advanced concepts, including OOP principles (polymorphism, encapsulation) and data structures (linked lists, BSTs), to bridge abstract theory with clean C++ implementation.',
     ],
   },
 ]
