@@ -1,0 +1,15 @@
+.about__body {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  max-width: 600px;
+}
+
+.about__body p {
+  font-size: 1.05rem;
+}
+
+.about__body strong {
+  color: var(--color-text);
+  font-weight: 500;
+}
