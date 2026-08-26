@@ -3,7 +3,7 @@ import './Contact.css'
 
 const links = [
   { label: 'Email', href: 'mailto:arav.shah@berkeley.edu', display: 'arav.shah@berkeley.edu' },
-  { label: 'LinkedIn', href: 'https://linkedin.com/in/arav-shah', display: 'linkedin.com/in/arav-shah' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/arav-shah-a1a9b4317/', display: 'linkedin.com/in/arav-shah-a1a9b4317' },
   { label: 'GitHub', href: 'https://github.com/AravCS', display: 'github.com/AravCS' },
 ]
 
